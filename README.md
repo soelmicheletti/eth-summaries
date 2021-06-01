@@ -2,4 +2,4 @@
 
 Summaries of selected courses I took at ETH
 
-If you find any mistakes, please notify them at: soel.micheletti@hotmail.it
+If you find any mistakes, please drop me a line: soel.micheletti@hotmail.it
