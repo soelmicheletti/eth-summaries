@@ -63,6 +63,8 @@ First year course, that covers many cool topics such as:
 - Theoretical perspective: Amdahl's and Gustafson's laws, linearizability, (sequential) consistency, consensus, parallel sorting...
 - Message Passing Interface
 
+![Alt text](/images/parallel.jpeg?raw=true "Title")
+
 ## Visual Computing
 
 Core course. Topics include:
