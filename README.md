@@ -45,6 +45,8 @@ Largest course at ETH, it covers many crucial concepts in Machine Learning such 
 - Dimensionality reduction (PCA, autoencoders...)
 - Miscellaneous: K-Means algorithm for clustering, Mixture models, generative models...
 
+![Alt text](/images/machine-learning.png?raw=true "Title")
+
 ## Parallel Programming
 
 First year course, that covers many cool topics such as:
