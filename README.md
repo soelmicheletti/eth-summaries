@@ -15,6 +15,8 @@ First semester course introducing the basics. Main topics include:
 - Data strucutres: Lists, queues, stacks, heps, (balanced) binary search trees...
 - Graph algorithms: DFS, BFS, shortest paths, minimum spanning trees...
 
+![Alt text](/images/algodat.jpg?raw=true "Title")
+
 ## Algorithms & Probability
 
 Second semester course. Concepts in Algorithms & Data Structures are expanded or rivisited, often in a slightly more theoretical/ proof oriented approach. Main topics include:
@@ -23,6 +25,8 @@ Second semester course. Concepts in Algorithms & Data Structures are expanded or
 - Introduction to discrete probability: random variables with their main properties, some notable distributions, coupon collector problem, famous inequalities and bounds (Markov, Chebishev, Chernoff). 
 - Randomised algorithms (Monte Carlo and Las Vegas). Examples include Min-Cuts, (short) longest paths, target shooting, hashing...
 - Geometric algorithms: smallest enclosing circle, Jarvis March, convex hull...
+
+![Alt text](/images/algowar.jpg?raw=true "Title")
 
 ## Cryptography
 
@@ -34,6 +38,8 @@ First part of the Information Security course (core course in Theoretical Comput
 - Diffie-Hellmann and RSA algorithms
 - Zero knowledge proofs
 - Commitment schemes
+
+![Alt text](/images/crypto.jpg?raw=true "Title")
 
 ## Introduction to Machine Learning
 
@@ -67,3 +73,5 @@ Core course. Topics include:
 - Optical flow
 - Texture and rendering
 - Physically based animation
+
+![Alt text](/images/visual.jpg?raw=true "Title")
