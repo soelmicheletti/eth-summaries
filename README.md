@@ -76,4 +76,4 @@ Core course. Topics include:
 - Texture and rendering
 - Physically based animation
 
-![Alt text](/images/visual.jpg?raw=true "Title")
+![Alt text](/images/visualcomp.jpg?raw=true "Title")
