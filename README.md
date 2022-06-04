@@ -28,6 +28,16 @@ Second semester course. Concepts in Algorithms & Data Structures are expanded or
 
 ![Alt text](/images/algowar.jpg?raw=true "Title")
 
+## Computer Systems
+
+First part of the core course on Distributed Systems. Topics include:
+
+- Kernel
+- Processes and inter-process communication
+- Scheduling
+- Memory Systems
+- File Systems
+
 ## Cryptography
 
 First part of the Information Security course (core course in Theoretical Computer Science). Covered topics include: 
