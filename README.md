@@ -38,6 +38,9 @@ First part of the core course on Distributed Systems. Topics include:
 - Memory Systems
 - File Systems
 
+
+![Alt text](/images/systems.jpg?raw=true "Title")
+
 ## Cryptography
 
 First part of the Information Security course (core course in Theoretical Computer Science). Covered topics include: 
