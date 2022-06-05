@@ -91,6 +91,8 @@ Second year course including many topics such as:
 - Caches
 - Memory
 
+![Alt text](/images/systemsprog.jpg?raw=true "Title")
+
 ## Visual Computing
 
 Core course. Topics include:
