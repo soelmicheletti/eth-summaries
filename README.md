@@ -78,6 +78,19 @@ First year course, that covers many cool topics such as:
 
 ![Alt text](/images/parallel.jpg?raw=true "Title")
 
+## Systems Programming and Computer Architecture
+
+Second year course including many topics such as:
+
+- Bit hacks
+- Binary representation (two's complements, floating points...)
+- Dynamic Memory allocation
+- Assembly languages
+- Computer Architectures
+- Compilers
+- Caches
+- Memory
+
 ## Visual Computing
 
 Core course. Topics include:
