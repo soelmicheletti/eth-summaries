@@ -4,7 +4,7 @@ Summaries of selected courses at ETH Zurich
 
 If you find any mistakes, please drop me a line: soel.micheletti@hotmail.it
 
-## [Algorithms & Data Structures](/Algorithms&Data Structures.pdf)
+## Algorithms & Data Structures
 
 First semester course introducing the basics. Main topics include:
 
@@ -17,7 +17,7 @@ First semester course introducing the basics. Main topics include:
 
 ![Alt text](/images/algodat.jpg?raw=true "Title")
 
-## [Algorithms & Probability](/Algorithms&Probability.pdf)
+## Algorithms & Probability
 
 Second semester course. Concepts in Algorithms & Data Structures are expanded or rivisited, often in a slightly more theoretical/ proof oriented approach. Main topics include:
 
@@ -28,7 +28,7 @@ Second semester course. Concepts in Algorithms & Data Structures are expanded or
 
 ![Alt text](/images/algowar.jpg?raw=true "Title")
 
-## [Computer Systems](/Computer Systems.pdf)
+## Computer Systems
 
 First part of the core course on Distributed Systems. Topics include:
 
@@ -41,7 +41,7 @@ First part of the core course on Distributed Systems. Topics include:
 
 ![Alt text](/images/systems.jpg?raw=true "Title")
 
-## [Cryptography](/Cryptography.pdf)
+## Cryptography
 
 First part of the Information Security course (core course in Theoretical Computer Science). Covered topics include: 
 
@@ -54,7 +54,7 @@ First part of the Information Security course (core course in Theoretical Comput
 
 ![Alt text](/images/crypto.jpg?raw=true "Title")
 
-## [Introduction to Machine Learning](/Introduction to Machine Learning.pdf)
+## Introduction to Machine Learning
 
 Largest course at ETH, it covers many crucial concepts in Machine Learning such as:
 
@@ -66,7 +66,7 @@ Largest course at ETH, it covers many crucial concepts in Machine Learning such 
 
 ![Alt text](/images/machine-learning.png?raw=true "Title")
 
-## [Parallel Programming](/Parallel Programming.pdf)
+## Parallel Programming
 
 First year course, that covers many cool topics such as:
 
@@ -78,7 +78,7 @@ First year course, that covers many cool topics such as:
 
 ![Alt text](/images/parallel.jpg?raw=true "Title")
 
-## [Systems Programming and Computer Architecture](/Systems Programming.pdf)
+## Systems Programming and Computer Architecture
 
 Second year course including many topics such as:
 
@@ -93,7 +93,7 @@ Second year course including many topics such as:
 
 ![Alt text](/images/systemsprog.jpg?raw=true "Title")
 
-## [Visual Computing](/Visual Computing.pdf)
+## Visual Computing
 
 Core course. Topics include:
 
