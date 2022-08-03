@@ -58,6 +58,13 @@ First part of the Information Security course (core course in Theoretical Comput
 
 Interdisciplinary course of the MSc Data Science Program. It covers important introductory topics in financial analysis, including: 
 
+- Forward contracts (hedging, speculation)
+- Option contracts: long/ short put/ call and strategies in different scenarios. 
+- Pricing by arbitrage
+- Market equilibria
+- Choice under uncertanty
+- Risk management models: Mean Variance Analysis, CAPM, consumption base CAPM
+
 ![Alt text](/images/finance.jpg?raw=true "Title")
 
 ## Introduction to Machine Learning
