@@ -54,6 +54,12 @@ First part of the Information Security course (core course in Theoretical Comput
 
 ![Alt text](/images/crypto.jpg?raw=true "Title")
 
+## Financial Economics
+
+Interdisciplinary course of the MSc Data Science Program. It covers important introductory topics in financial analysis, including: 
+
+![Alt text](/images/finance.jpg?raw=true "Title")
+
 ## Introduction to Machine Learning
 
 Largest course at ETH, it covers many crucial concepts in Machine Learning such as:
