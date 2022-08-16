@@ -17,7 +17,7 @@ First semester course introducing the basics. Main topics include:
 
 ![Alt text](/images/algodat.jpg?raw=true "Title")
 
-## Algorithms & Probability
+## [Algorithms & Probability](/Algorithms&Probability.pdf)
 
 Second semester course. Concepts in Algorithms & Data Structures are expanded or rivisited, often in a slightly more theoretical/ proof oriented approach. Main topics include:
 
@@ -41,7 +41,7 @@ First part of the core course on Distributed Systems. Topics include:
 
 ![Alt text](/images/systems.jpg?raw=true "Title")
 
-## Cryptography
+## [Cryptography](/Cryptography.pdf)
 
 First part of the Information Security course (core course in Theoretical Computer Science). Covered topics include: 
 
