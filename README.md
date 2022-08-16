@@ -106,7 +106,7 @@ Second year course including many topics such as:
 
 ![Alt text](/images/systemsprog.jpg?raw=true "Title")
 
-## Visual Computing
+## [Visual Computing](/VisualComputing.pdf)
 
 Core course. Topics include:
 
