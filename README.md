@@ -4,7 +4,7 @@ Summaries of selected courses at ETH Zurich
 
 If you find any mistakes, please drop me a line: soel.micheletti@hotmail.it
 
-## [Algorithms & Data Structures](/Algorithms&DataStructures)
+## [Algorithms & Data Structures](/Algorithms&DataStructures.pdf)
 
 First semester course introducing the basics. Main topics include:
 
