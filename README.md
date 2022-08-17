@@ -79,7 +79,7 @@ Largest course at ETH, it covers many crucial concepts in Machine Learning such 
 
 ![Alt text](/images/machine-learning.png?raw=true "Title")
 
-## Parallel Programming
+## [Parallel Programming](/ParallelPrograing.pdf)
 
 First year course, that covers many cool topics such as:
 
