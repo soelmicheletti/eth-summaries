@@ -91,7 +91,7 @@ First year course, that covers many cool topics such as:
 
 ![Alt text](/images/parallel.jpg?raw=true "Title")
 
-## Systems Programming and Computer Architecture
+## [Systems Programming and Computer Architecture](/SystemsProgramming.pdf)
 
 Second year course including many topics such as:
 
