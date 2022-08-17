@@ -28,7 +28,7 @@ Second semester course. Concepts in Algorithms & Data Structures are expanded or
 
 ![Alt text](/images/algowar.jpg?raw=true "Title")
 
-## Computer Systems
+## [Computer Systems](/ComputerSystems.pdf)
 
 First part of the core course on Distributed Systems. Topics include:
 
