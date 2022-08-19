@@ -54,7 +54,7 @@ First part of the Information Security course (core course in Theoretical Comput
 
 ![Alt text](/images/crypto.jpg?raw=true "Title")
 
-## Financial Economics
+## [Financial Economics](/FinancialEconomics.pdf)
 
 Interdisciplinary course of the MSc Data Science Program. It covers important introductory topics in financial analysis, including: 
 
