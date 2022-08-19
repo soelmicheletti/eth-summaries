@@ -67,7 +67,7 @@ Interdisciplinary course of the MSc Data Science Program. It covers important in
 
 ![Alt text](/images/finance.jpg?raw=true "Title")
 
-## Introduction to Machine Learning
+## [Introduction to Machine Learning](/MachineLearning.pdf)
 
 Largest course at ETH, it covers many crucial concepts in Machine Learning such as:
 
