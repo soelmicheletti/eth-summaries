@@ -91,6 +91,17 @@ First year course, that covers many cool topics such as:
 
 ![Alt text](/images/parallel.jpg?raw=true "Title")
 
+## [Reproducible Data Science](/ReproducibleDataScience.pdf)
+
+Lecture I took during my time at Harvard. Topics include:
+
+- Criteria to assess the reproducibility and replicability of a research
+- Data Provenance
+- Best practices to create a fully reproducible research project
+- Computational and statistical tools
+
+![Alt text](/images/reproducibleDS.jpg?raw=true "Title")
+
 ## [Systems Programming and Computer Architecture](/SystemsProgramming.pdf)
 
 Second year course including many topics such as:
