@@ -2,7 +2,7 @@
 
 Summaries of selected courses at ETH Zurich
 
-If you find any mistakes, please drop me a line: soel.micheletti@hotmail.it
+If you find any mistakes, please drop me a line: soel.micheletti@alumni.ethz.ch
 
 ## [Algorithms & Data Structures](/Algorithms&DataStructures.pdf)
 
